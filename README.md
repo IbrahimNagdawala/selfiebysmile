@@ -1,4 +1,3 @@
-# selfiebysmile
 # Smile Selfie
 
 Smile Selfie is a fun Python project that takes a photo of the user when they smile. It uses OpenCV to detect facial expressions and Pygame to display the camera feed. 
